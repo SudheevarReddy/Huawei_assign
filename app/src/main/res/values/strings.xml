@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Huawei_Intern_assignment</string>
+    <string name="heading">INTERN_1</string>
+    <string name="loginImage">loginImage</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="StudentNameTxt">Name:</string>
+    <string name="StudentPhnoTxt2">PhoneNo:</string>
+    <string name="enter_phone_number_hint">Enter Phone Number</string>
+    <string name="age_text">Age:</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="Location_text">Location:</string>
+    <string name="Bio_text">Bio:</string>
+    <string name="Bio_hint">Enter Bio(max 30 char)</string>
+    <string name="Clear_Button">CLEAR</string>
+    <string name="Submit_Button">SUBMIT</string>
+    <string name="Second_activity_heading">DATA TRANSFERRED TO HERE</string>
+</resources>
